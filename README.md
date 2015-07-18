@@ -11,3 +11,6 @@
 ## Источники
 
 * http://www.grodnoonline.org/Grodno_Contributors_1937.pdf
+* http://pbc.biaman.pl/Content/5677/dziennik_urzedowy_nr8_1925.pdf
+* http://ir.nmu.org.ua/xmlui/handle/123456789/35946
+* http://pbc.biaman.pl/Content/18025/informator%20spis%20lekarzy%20i%20obywateli%20ziemskich.pdf
